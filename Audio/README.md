@@ -2,7 +2,7 @@
 
 [Samples](samples.json)
 
-!reslist "https://joycejandette.github.io/Media-Estuary/Audio/samples.json".
+!reslist "https://joycejandette.github.io/Media-Estuary/Audio/samples.json"
 
 **Audios disponibles**
 
