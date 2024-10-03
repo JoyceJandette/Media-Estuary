@@ -7,11 +7,11 @@
   { "url":"berta/05.wav","type":"audio","bank":"berta","n":5},
   { "url":"berta/07.wav","type":"audio","bank":"berta","n":6},
   
-  { "url":"lluvia/00.wav","type":"audio","bank":"berta","n":0},
-  { "url":"lluvia/01.wav","type":"audio","bank":"berta","n":1},
-  { "url":"lluvia/02.wav","type":"audio","bank":"berta","n":2},
-  { "url":"lluvia/03.wav","type":"audio","bank":"berta","n":3},
-  { "url":"lluvia/04.wav","type":"audio","bank":"berta","n":4},
-  { "url":"lluvia/05.wav","type":"audio","bank":"berta","n":5},
-  { "url":"lluvia/06.wav","type":"audio","bank":"berta","n":6}
+  { "url":"lluvia/00.wav","type":"audio","bank":"lluvia","n":0},
+  { "url":"lluvia/01.wav","type":"audio","bank":"lluvia","n":1},
+  { "url":"lluvia/02.wav","type":"audio","bank":"lluvia","n":2},
+  { "url":"lluvia/03.wav","type":"audio","bank":"lluvia","n":3},
+  { "url":"lluvia/04.wav","type":"audio","bank":"lluvia","n":4},
+  { "url":"lluvia/05.wav","type":"audio","bank":"lluvia","n":5},
+  { "url":"lluvia/06.wav","type":"audio","bank":"lluvia","n":6}
 ]
