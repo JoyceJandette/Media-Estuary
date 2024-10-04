@@ -5,4 +5,4 @@ Materiales audiovisuales para usar en la plataforma de Estuary
 
 + [Videos](Video/README.md)
 
-+ [Imagen](Imagen/README.md)
++ [Imagenes](Imagen/README.md)
