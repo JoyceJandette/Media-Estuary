@@ -6,3 +6,10 @@ Links para usar en CineCer0
 + https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/Gota.mp4
 + https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/Liquido.mp4
 + https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/Rio.mp4
+
+Links para usar en Hydra
+
+[Agua](Agua.mp4)
+[Gota](Gota.mp4)
+[Liquido](Liquido.mp4)
+[Rio](Rio.mp4)
