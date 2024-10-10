@@ -13,10 +13,13 @@ Links para usar en CineCer0
 
 Links para usar en Hydra
 
-+ [Agua](Agua.mp4) / https://github.com/JoyceJandette/Media-Estuary/blob/main/Video/Agua.mp4
++ https://joycejandette.github.io/Media-Estuary/Video/Agua.mp4
++ https://joycejandette.github.io/Media-Estuary/Video/Gota.mp4
++ https://joycejandette.github.io/Media-Estuary/Video/Liquido.mp4
++ https://joycejandette.github.io/Media-Estuary/Video/Rio.mp4
 
-+ [Gota](Gota.mp4) / https://github.com/JoyceJandette/Media-Estuary/blob/main/Video/Gota.mp4
 
-+ [Liquido](Liquido.mp4) / https://github.com/JoyceJandette/Media-Estuary/blob/main/Video/Liquido.mp4
-  
-+ [Rio](Rio.mp4) / https://github.com/JoyceJandette/Media-Estuary/blob/main/Video/Rio.mp4
++ [Agua](Agua.mp4) 
++ [Gota](Gota.mp4) 
++ [Liquido](Liquido.mp4) 
++ [Rio](Rio.mp4) 
