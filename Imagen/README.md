@@ -10,7 +10,7 @@
  
 + https://joycejandette.github.io/Media-Estuary/Imagen/cointzio.png
 + https://joycejandette.github.io/Media-Estuary/Imagen/minzita.png
-+ + https://joycejandette.github.io/Media-Estuary/Imagen/monarca.png
++ https://joycejandette.github.io/Media-Estuary/Imagen/monarca.png
 
   [cointzio](cointzio.png)
   [minzita](minzita.png)
