@@ -15,8 +15,8 @@
   { "url":"lluvia/05.wav","type":"audio","bank":"lluvia","n":5},
   { "url":"lluvia/06.wav","type":"audio","bank":"lluvia","n":6},
 
-  { "url":"Audio/canta.wav","type":"audio","bank":"canta","n":0},
-  { "url":"Audio/casa.wav","type":"audio","bank":"casa","n":1},
-  { "url":"Audio/migrar.wav","type":"audio","bank":"migra","n":2},
-  { "url":"Audio/pies.wav","type":"audio","bank":"pies","n":3}
+  { "url":"Audio/canta.wav","type":"audio","bank":"t","n":0},
+  { "url":"Audio/casa.wav","type":"audio","bank":"t","n":1},
+  { "url":"Audio/migrar.wav","type":"audio","bank":"t","n":2},
+  { "url":"Audio/pies.wav","type":"audio","bank":"t","n":3}
 ]
