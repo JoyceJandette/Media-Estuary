@@ -18,7 +18,13 @@ Links para usar en Hydra
 + https://joycejandette.github.io/Media-Estuary/Video/Liquido.mp4
 + https://joycejandette.github.io/Media-Estuary/Video/Rio.mp4
 
-
 [Agua](Agua.mp4) [Gota](Gota.mp4) [Liquido](Liquido.mp4) [Rio](Rio.mp4) 
+
+
++ https://joycejandette.github.io/Media-Estuary/Video/boca.mp4
++ https://joycejandette.github.io/Media-Estuary/Video/mano.mp4
++ https://joycejandette.github.io/Media-Estuary/Video/pelo.mp4
++ https://joycejandette.github.io/Media-Estuary/Video/pie.mp4
+
 [boca](boca.mp4) [mano](mano.mp4) [pelo](pelo.mp4) [pie](pie.mp4)
 
