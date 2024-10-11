@@ -10,8 +10,11 @@ Links para usar en CineCer0
 + https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/mano.mp4
 + https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/pelo.mp4
 + https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/pie.mp4
+  
 + https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/aguacate.mp4
 + https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/casa%20%20.mp4
++ https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/monarca.mp4
++ https://github.com/JoyceJandette/Media-Estuary/raw/refs/heads/main/Video/monarca3.mp4
 
 Links para usar en Hydra
 
