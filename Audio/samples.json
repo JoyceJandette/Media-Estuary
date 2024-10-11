@@ -21,10 +21,10 @@
   { "url":"cuerpo/pies.wav","type":"audio","bank":"cuerpo","n":3},
 
   { "url":"pirecua/00.wav","type":"audio","bank":"pirecua","n":0},
-  { "url":"pirecua/01.wav","type":"audio","bank":"pirecua","n":1},
-  { "url":"pirecua/02.wav","type":"audio","bank":"pirecua","n":2},
-  { "url":"pirecua/03.wav","type":"audio","bank":"pirecua","n":3},
-  { "url":"pirecua/04.wav","type":"audio","bank":"pirecua","n":4},
+  { "url":"pirecua/001.wav","type":"audio","bank":"pirecua","n":1},
+  { "url":"pirecua/002.wav","type":"audio","bank":"pirecua","n":2},
+  { "url":"pirecua/033.wav","type":"audio","bank":"pirecua","n":3},
+  { "url":"pirecua/004.wav","type":"audio","bank":"pirecua","n":4},
 
   { "url":"aguacate/000.wav","type":"audio","bank":"aguacate","n":0},
   { "url":"aguacate/001.wav","type":"audio","bank":"aguacate","n":1},
