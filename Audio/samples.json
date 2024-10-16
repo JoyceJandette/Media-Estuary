@@ -15,6 +15,13 @@
   { "url":"lluvia/05.wav","type":"audio","bank":"lluvia","n":5},
   { "url":"lluvia/06.wav","type":"audio","bank":"lluvia","n":6},
 
+  { "url":"rio/00.wav","type":"audio","bank":"rio","n":0},
+  { "url":"rio/01.wav","type":"audio","bank":"rio","n":1},
+  { "url":"rio/02.wav","type":"audio","bank":"rio","n":2},
+
+  { "url":"carne/00.wav","type":"audio","bank":"carne","n":0},
+  { "url":"carne/01.wav","type":"audio","bank":"carne","n":1},
+  
   { "url":"cuerpo/canta.wav","type":"audio","bank":"cuerpo","n":0},
   { "url":"cuerpo/casa.wav","type":"audio","bank":"cuerpo","n":1},
   { "url":"cuerpo/migrar.wav","type":"audio","bank":"cuerpo","n":2},
